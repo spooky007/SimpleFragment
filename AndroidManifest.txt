@@ -6,7 +6,7 @@
     android:versionName="1.0"
     android:installLocation="preferExternal">
 	
-      <!-- Random Comments 2-->
+      <!-- Random Comments 3-->
       <uses-sdk  
         android:minSdkVersion="18"  
         android:targetSdkVersion="27" />
